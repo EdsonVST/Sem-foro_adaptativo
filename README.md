@@ -40,4 +40,3 @@ cd semaforos-inteligentes
 **📄 Licença
 MIT © 2024 - [EdsonVST]
 
-<button onclick="copyReadme()" style="padding: 10px 20px; background-color: #2ecc71; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">Copiar README</button>
