@@ -1,5 +1,5 @@
 🚦 Semáforos Inteligentes para Mitigação de Tráfego
-<div align="center"> <img src="img/tinkercad.png" alt="Simulação no Tinkercad" width="500"> 
+<div align="center"> <img src="img/tinkercad.png" alt="Simulação no Tinkercad" width="500"></div>
 
 📌 Visão Geral
 Sistema de semáforos adaptativos desenvolvido no Tinkercad que utiliza Arduino para controlar dinamicamente os tempos dos sinais de trânsito com base na detecção simulada de veículos.
